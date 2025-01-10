@@ -1,0 +1,13 @@
+.app-background {
+    background-image: url('../assets/bg.jpeg'); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+    color: white;
+    justify-content: center; 
+    align-items: center; 
+    display: flex;
+  }
+  
